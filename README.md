@@ -83,8 +83,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This project was developed as part of the partial fulfillment of the requirements for the award of the Degree Bachelors of Technology in Electronics and Communication Engineering at Visakha Institute of Engineering and Technology.
 
 Developed by:
-T. Hari Sai Kumar
-harisaikumar06@gmail.com
+N. Ajay
+ajaynagirikanti@gmail.com
 
 ## Contact
 
